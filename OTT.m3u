@@ -591,26 +591,18 @@ http://190.61.55.186:1010/play/745/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://190.61.55.186:1010/play/a01h/index.m3u8
 #EXTINF:-1,Win Sports
-#EXTGRP:DEPORTES INT
 http://190.61.55.186:1010/play/a02r/index.m3u8
 #EXTINF:-1,Una Familia de Diez
-#EXTGRP:24/7
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/376365
 #EXTINF:-1,Una Familia de Diez
-#EXTGRP:24/7
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039677
 #EXTINF:-1,La Familia Peluche
-#EXTGRP:24/7
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039695
 #EXTINF:-1,La Familia Peluche
-#EXTGRP:24/7
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/376363
 #EXTINF:-1,VECINOS
-#EXTGRP:24/7
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/376364
 #EXTINF:-1,Nosotros los Guapos
-#EXTGRP:24/7
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039684
 #EXTINF:-1,Los 3 Chiflados
-#EXTGRP:24/7
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1039690
