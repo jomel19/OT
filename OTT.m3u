@@ -9,16 +9,12 @@ http://190.119.178.46:8000/play/a03m
 http://45.71.252.16:8000/play/a09n
 #EXTINF:-1,SUBLIME GRACIA HD
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,TV GRACIA HD
-http://gotv.vip:8880/Kim1/Kim1/150205
 #EXTINF:-1,CCI 
 http://200.59.188.3:8000/play/a09g
 #EXTINF:-1,RHEMA TV
 http://201.159.113.219:49000/play/a04d
-#EXTINF:-1,VOZ DE PODER
-http://gotv.vip:8880/Kim1/Kim1/150201
 #EXTINF:-1,DIOS TV KIDS HD
-https://s.emisoras.tv:8081/diostevekids/index.m3u8
+http://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1,CRISTIANA TV  HD
 http://stmv2.voxtvhd.com.br/cristianatv/cristianatv/playlist.m3u8
 #EXTINF:-1,CDM TV HD
@@ -44,15 +40,15 @@ http://191.97.58.41:8001/play/a008
 #EXTINF:-1,GOLPERU HD 1
 http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330759
 #EXTINF:-1,Movistar Deportes HD 
-http://190.108.85.20:9999/play/a022
+http://38.43.151.206:8000/play/a02z
 #EXTINF:-1,Movistar Deportes HD 1
-http://161.132.108.74:50001/play/a01d
+http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/206443
 #EXTINF:-1,Latina HD 
 http://190.119.178.46:8000/play/a017
 #EXTINF:-1,Latina HD 1
 http://181.176.172.66:9000/play/a02l
 #EXTINF:-1, Latina HD 2
-http://170.81.241.222:1/play/a02a
+http://38.43.151.206:8000/play/a034
 #EXTINF:-1,America TV HD 
 http://190.61.55.186:1010/play/a00y
 #EXTINF:0, America TV HD 1
@@ -62,47 +58,41 @@ http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/6723
 #EXTINF:0, América TV HD 3
 http://181.176.172.66:9000/play/a02k
 #EXTINF:0,PANAMERICANA HD 1
-http://161.132.108.74:50001/play/a02b
+http://38.43.151.206:8000/play/a063
 #EXTINF:0,PANAMERICANA 2
 http://181.176.172.66:9000/play/a037
 #EXTINF:0,PANAMERICANA 3
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/305438
 #EXTINF:-1,ATV HD
-http://161.132.108.74:50001/play/a02h
+http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/305438
 #EXTINF:-1,ATV HD 1
-http://gotv.vip:8880/Kim1/Kim1/683
+http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/73248
 #EXTINF:0,ATV HD 2
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+http://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0,ATV+ HD 1
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
-#EXTINF:0,ATV+ HD 2
-http://gotv.vip:8880/Kim1/Kim1/682
-#EXTINF:-1,ATV+ HD 3
+http://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1,ATV+ HD 2
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/65
 #EXTINF:0,Exitosa HD 
-http://161.132.108.74:50001/play/a02d/index.m3u8
+http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/347932
 #EXTINF:0,Exitosa HD 1
 http://177.53.153.20:8001/play/a0b3
-#EXTINF:0,RTE NOTICIAS HD
-http://gotv.vip:8880/Kim1/Kim1/146624
 #EXTINF:0,WILLAX HD
-http://161.132.108.74:50001/play/a028
+http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/153173
 #EXTINF:0,WILLAX HD 1
 http://190.119.178.46:8000/play/aa0j
-#EXTINF:0,WILLAX HD 2
-http://gotv.vip:8880/Kim1/Kim1/681
 #EXTINF:0, RPP HD 
-http://161.132.108.74:50001/play/a02n
+http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/291779
 #EXTINF:0, RPP HD 1
 http://191.97.58.41:8001/play/a00v
 #EXTINF:0,CANAL N HD
-http://161.132.108.74:50001/play/a02o
+http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/167
 #EXTINF:0,CANAL N HD 1
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070252
 #EXTINF:0,CANAL N HD 2
 http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/167
 #EXTINF:0,TV PERU
-http://161.132.108.74:50001/play/a02e
+http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/173
 #EXTINF:0,TV PERU
 http://dns.k4livetv.com:80/ANDRESALM2412/50070/1070277
 #EXTINF:0,TV PERU INT
